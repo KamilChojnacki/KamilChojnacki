@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KamilChojnacki
-- 👀 I’m interested in new technologies and motorbike adventures
-- 🌱 I’m currently learning Cloud and DevOps tools
+- 👀 I’m interested in new technologies, motorbike adventures and scuba diving
 - 📫 How to reach me : kamilchojnacki@o2.pl
 
 <!---
